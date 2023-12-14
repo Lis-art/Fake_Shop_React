@@ -10,7 +10,6 @@ import ProduktDetails from "./pages/Produktdetails";
 
 function App() {
 
-
   return (
     <>
       <BrowserRouter>
